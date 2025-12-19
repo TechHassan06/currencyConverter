@@ -1,8 +1,8 @@
-💱 Currency Converter (React)
+**💱 Currency Converter (React)**
 
 A modern Currency Converter web application built with React and Tailwind CSS, featuring a glassmorphism UI, real-time exchange rates, and a smooth user experience. The app allows users to convert amounts between different currencies with instant results.
 
-🌐 Live Demo
+**🌐 Live Demo**
 
 👉 Live Preview:
 https://newcurrencyconverter17.netlify.app/
